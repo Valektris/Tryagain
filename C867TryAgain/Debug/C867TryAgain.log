@@ -1,0 +1,3 @@
+﻿  roster.cpp
+C:\Users\slyou\source\repos\C867TryAgain\roster.cpp(13,10): warning C4101: 'classRosterArray': unreferenced local variable
+  C867TryAgain.vcxproj -> C:\Users\slyou\source\repos\C867TryAgain\Debug\C867TryAgain.exe
